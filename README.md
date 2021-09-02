@@ -1,6 +1,8 @@
 
 # Contributing
 
+[![Build Status](https://dev.azure.com/stanleypettersson/Stans%20Demo/_apis/build/status/nossrettep.pipelines-java?branchName=master)](https://dev.azure.com/stanleypettersson/Stans%20Demo/_build/latest?definitionId=5&branchName=master)
+
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
